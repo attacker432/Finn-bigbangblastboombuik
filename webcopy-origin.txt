@@ -1,0 +1,20 @@
+Uri: https://dliscord.com/xGCs7cGt2sdFOf81
+File Name: C:\Downloaded Web Sites\dliscord.com\xGCs7cGt2sdFOf81.html
+Content Type: text/html
+
+Uri: https://dliscord.com/assets/discord/images/847541504914fd33810e70a0ea73177e.ico
+File Name: C:\Downloaded Web Sites\dliscord.com\assets\discord\images\847541504914fd33810e70a0ea73177e.ico
+Content Type: image/x-icon
+
+Uri: https://dliscord.com/assets/discord/css/app.css
+File Name: C:\Downloaded Web Sites\dliscord.com\assets\discord\css\app.css
+Content Type: text/css
+
+Uri: https://dliscord.com/assets/discord/js/app.js?v=3fea243fdd
+File Name: C:\Downloaded Web Sites\dliscord.com\assets\discord\js\app.js
+Content Type: application/javascript
+
+Uri: https://cdn.igromania.ru/mnt/news/f/9/8/3/3/e/88018/74862201f6da70cf_848x477.jpg
+File Name: C:\Downloaded Web Sites\dliscord.com\mnt\news\f\9\8\3\3\e\88018\74862201f6da70cf_848x477.jpg
+Content Type: image/jpeg
+
